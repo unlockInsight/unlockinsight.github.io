@@ -4,7 +4,7 @@ title: Fight Inertia
 date: 2025-06-24 14:00:00 +0800
 ---
 
-#### Recommended blogs
+
 
 - [Fight Inertia](https://writing.nikunjk.com/p/fight-inertia)
 - [Function, not form](https://writing.nikunjk.com/p/function-not-form)
